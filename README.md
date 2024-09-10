@@ -1,5 +1,5 @@
 # Introduction
-This is the project from Luke's Final SQL Analysis ![source](https://www.lukebarousse.com/sql) 
+This is the project from Luke's Final SQL Analysis [SQL Course](https://www.lukebarousse.com/sql) 
 
 # Background
 Driven by a quest to navigate the data analyst job market more effectively, this project was born from a desire to pinpoint top-paid and in-demand skills, streamlining others work to find optimal jobs.
