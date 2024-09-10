@@ -1,0 +1,152 @@
+[
+  {
+    "skill_id": 95,
+    "skills": "pyspark",
+    "counts": "2",
+    "avg_salary": "208172"
+  },
+  {
+    "skill_id": 218,
+    "skills": "bitbucket",
+    "counts": "2",
+    "avg_salary": "189155"
+  },
+  {
+    "skill_id": 85,
+    "skills": "watson",
+    "counts": "1",
+    "avg_salary": "160515"
+  },
+  {
+    "skill_id": 65,
+    "skills": "couchbase",
+    "counts": "1",
+    "avg_salary": "160515"
+  },
+  {
+    "skill_id": 206,
+    "skills": "datarobot",
+    "counts": "1",
+    "avg_salary": "155486"
+  },
+  {
+    "skill_id": 220,
+    "skills": "gitlab",
+    "counts": "3",
+    "avg_salary": "154500"
+  },
+  {
+    "skill_id": 35,
+    "skills": "swift",
+    "counts": "2",
+    "avg_salary": "153750"
+  },
+  {
+    "skill_id": 102,
+    "skills": "jupyter",
+    "counts": "3",
+    "avg_salary": "152777"
+  },
+  {
+    "skill_id": 93,
+    "skills": "pandas",
+    "counts": "9",
+    "avg_salary": "151821"
+  },
+  {
+    "skill_id": 59,
+    "skills": "elasticsearch",
+    "counts": "1",
+    "avg_salary": "145000"
+  },
+  {
+    "skill_id": 27,
+    "skills": "golang",
+    "counts": "1",
+    "avg_salary": "145000"
+  },
+  {
+    "skill_id": 94,
+    "skills": "numpy",
+    "counts": "5",
+    "avg_salary": "143513"
+  },
+  {
+    "skill_id": 75,
+    "skills": "databricks",
+    "counts": "10",
+    "avg_salary": "141907"
+  },
+  {
+    "skill_id": 169,
+    "skills": "linux",
+    "counts": "2",
+    "avg_salary": "136508"
+  },
+  {
+    "skill_id": 213,
+    "skills": "kubernetes",
+    "counts": "2",
+    "avg_salary": "132500"
+  },
+  {
+    "skill_id": 219,
+    "skills": "atlassian",
+    "counts": "5",
+    "avg_salary": "131162"
+  },
+  {
+    "skill_id": 250,
+    "skills": "twilio",
+    "counts": "1",
+    "avg_salary": "127000"
+  },
+  {
+    "skill_id": 96,
+    "skills": "airflow",
+    "counts": "5",
+    "avg_salary": "126103"
+  },
+  {
+    "skill_id": 106,
+    "skills": "scikit-learn",
+    "counts": "2",
+    "avg_salary": "125781"
+  },
+  {
+    "skill_id": 211,
+    "skills": "jenkins",
+    "counts": "3",
+    "avg_salary": "125436"
+  },
+  {
+    "skill_id": 238,
+    "skills": "notion",
+    "counts": "1",
+    "avg_salary": "125000"
+  },
+  {
+    "skill_id": 3,
+    "skills": "scala",
+    "counts": "5",
+    "avg_salary": "124903"
+  },
+  {
+    "skill_id": 57,
+    "skills": "postgresql",
+    "counts": "4",
+    "avg_salary": "123879"
+  },
+  {
+    "skill_id": 81,
+    "skills": "gcp",
+    "counts": "3",
+    "avg_salary": "122500"
+  },
+  {
+    "skill_id": 191,
+    "skills": "microstrategy",
+    "counts": "2",
+    "avg_salary": "121619"
+  }
+]
