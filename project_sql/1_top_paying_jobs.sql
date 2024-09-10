@@ -3,11 +3,6 @@
     - Identify the top 10 highest-paying data analyst roles that are available remotely.
     - Focuses on job postings with specified salaries (remove nulls).
     - Highlight the top paying opportunities for data analysts, offering insights into employer.
-2. What are the skills required for these top paying roles?
-3. What are the most in-demand skills for my role?
-4. What are the top skills based on salary for my role?
-5. What are the most optimal skills to learn?
-6. Optimal: High Demand and High Paying
 */
 
 SELECT
